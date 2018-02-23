@@ -9,6 +9,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
+    "randomatic": "^3.0.0",
     "smpp": "^0.3.1"
   }
 }
